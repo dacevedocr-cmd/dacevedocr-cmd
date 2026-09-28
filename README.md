@@ -1,4 +1,4 @@
-# Hi, I'm Diego!
+# Hi, I'm Diego
 
 **Fraud & Data professional → ML/AI** · Costa Rica · Open to remote roles
 
